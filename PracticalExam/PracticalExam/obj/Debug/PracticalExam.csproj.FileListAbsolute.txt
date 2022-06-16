@@ -1,0 +1,21 @@
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe.config
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.pdb
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csprojAssemblyReference.cache
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csproj.CoreCompileInputs.cache
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.exe
+J:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.pdb
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe.config
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.pdb
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csprojAssemblyReference.cache
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csproj.CoreCompileInputs.cache
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.exe
+F:\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.pdb
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe.config
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.exe
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\bin\Debug\PracticalExam.pdb
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csproj.AssemblyReference.cache
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.csproj.CoreCompileInputs.cache
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.exe
+H:\UNI WORK\UNI WORK FOUNDATION\Fundamentals of programming\Mock Exam\PracticalExam\PracticalExam\obj\Debug\PracticalExam.pdb
