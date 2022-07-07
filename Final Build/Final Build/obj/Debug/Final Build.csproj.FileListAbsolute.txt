@@ -1,0 +1,32 @@
+J:\Project Foundation\Final Build\Final Build\bin\Debug\Final Build.exe.config
+J:\Project Foundation\Final Build\Final Build\bin\Debug\Final Build.exe
+J:\Project Foundation\Final Build\Final Build\bin\Debug\Final Build.pdb
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.csprojAssemblyReference.cache
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Form1.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Properties.Resources.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.csproj.GenerateResource.cache
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.csproj.CoreCompileInputs.cache
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.exe
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.pdb
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.csprojAssemblyReference.cache
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.AMD.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Cataracts.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Form1.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Galcuoma.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Properties.Resources.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Selection_From.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Trachoma.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.csproj.GenerateResource.cache
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.csproj.CoreCompileInputs.cache
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.exe
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final Build.pdb
+F:\Project Foundation\Final Build\Final Build\bin\Debug\Final Build.exe.config
+F:\Project Foundation\Final Build\Final Build\bin\Debug\Final Build.exe
+F:\Project Foundation\Final Build\Final Build\bin\Debug\Final Build.pdb
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.AMD.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Cataracts.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Disclaimer.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Galcuoma.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Selection_From.resources
+J:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Trachoma.resources
+F:\Project Foundation\Final Build\Final Build\obj\Debug\Final_Build.Disclaimer.resources
